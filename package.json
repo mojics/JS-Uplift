@@ -1,0 +1,24 @@
+{
+  "name": "uplift-js",
+  "version": "1.0.0",
+  "description": "Uplift/Transform HTML code without touching it",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojics/uplift-js.git"
+  },
+  "keywords": [
+    "uplift",
+    "js",
+    "transform"
+  ],
+  "author": "Ronald Allan Mojica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojics/uplift-js/issues"
+  },
+  "homepage": "https://github.com/mojics/uplift-js#readme"
+}
