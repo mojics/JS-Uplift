@@ -1,5 +1,4 @@
 (function ( $ ) {
-
     $.uplift = {
     	parsers:{},
     	transform: function(){
@@ -11,5 +10,4 @@
 			});
     	}
     };
-
 }( jQuery ));
