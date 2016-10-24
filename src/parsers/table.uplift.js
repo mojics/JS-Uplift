@@ -3,7 +3,7 @@
 	function table_parser(){
 		$('table.x-form')
             .addClass('x-uplift-js')
-            .after('This element was modified');
+            .after('<b>This element was modified</b>');
 	}
 
 
