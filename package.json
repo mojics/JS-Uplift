@@ -2,7 +2,7 @@
   "name": "uplift-js",
   "version": "1.0.0",
   "description": "Uplift/Transform HTML code without touching it",
-  "main": "index.html",
+  "main": "src/uplift.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/mojics/uplift-js/issues"
   },
-  "homepage": "https://github.com/mojics/uplift-js#readme"
+  "homepage": "https://github.com/mojics/uplift-js#readme",
+  "devDependencies": {}
 }
