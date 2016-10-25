@@ -1,6 +1,7 @@
 Uplift JS
 =========
 
+[![Build Status](https://travis-ci.org/mojics/uplift-js.svg?branch=master)](https://travis-ci.org/mojics/uplift-js)
 
 Collection of js transformation script included in one jQuery library
 
