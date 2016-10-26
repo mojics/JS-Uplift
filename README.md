@@ -17,6 +17,7 @@ Installation and sample usage
 
 
 #### Installation
+
 ```sh
 npm install uplift-js
 ```
@@ -37,5 +38,3 @@ License
 
 MIT
 
-
-***Free Software, Hell Yeah!***
